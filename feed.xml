@@ -6,14 +6,21 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 30 Nov 2018 19:14:56 +0800</pubDate>
-    <lastBuildDate>Fri, 30 Nov 2018 19:14:56 +0800</lastBuildDate>
+    <pubDate>Fri, 30 Nov 2018 20:46:24 +0800</pubDate>
+    <lastBuildDate>Fri, 30 Nov 2018 20:46:24 +0800</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
         <title>Video</title>
         <description>&lt;h3 id=&quot;try-voyager&quot;&gt;Try voyager&lt;/h3&gt;
+&lt;h3 id=&quot;try-bili&quot;&gt;try bili&lt;/h3&gt;
+&lt;iframe src=&quot;//player.bilibili.com/player.html?aid=36940241&amp;amp;cid=64887308&amp;amp;page=1&quot; scrolling=&quot;no&quot; border=&quot;0&quot; frameborder=&quot;no&quot; framespacing=&quot;0&quot; allowfullscreen=&quot;true&quot;&gt; &lt;/iframe&gt;
+&lt;embed src=&quot;//player.bilibili.com/player.html?aid=36940241&amp;amp;cid=64887308&amp;amp;page=1&quot; allowfullscreen=&quot;true&quot; quality=&quot;high&quot; width=&quot;480&quot; height=&quot;400&quot; align=&quot;middle&quot; allowscriptaccess=&quot;always&quot; type=&quot;application/x-shockwave-flash&quot; /&gt;
+&lt;p&gt;&amp;lt;/embed&amp;gt;&lt;/p&gt;
+
 &lt;h3 id=&quot;try-yk&quot;&gt;try yk&lt;/h3&gt;
+&lt;embed src=&quot;http://player.youku.com/player.php/sid/XMzkzNDU1OTk2NA==/v.swf&quot; allowfullscreen=&quot;true&quot; quality=&quot;high&quot; width=&quot;480&quot; height=&quot;400&quot; align=&quot;middle&quot; allowscriptaccess=&quot;always&quot; type=&quot;application/x-shockwave-flash&quot; /&gt;
+&lt;p&gt;&amp;lt;/embed&amp;gt;&lt;/p&gt;
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;http://player.youku.com/embed/XMzkzNDU1OTk2NA==&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 &lt;p&gt;&amp;lt;iframe height=498 width=510 src=’http://player.youku.com/embed/XMzkzNDU1OTk2NA==’ frameborder=0 ‘allowfullscreen’&amp;gt;&amp;lt;/iframe&amp;gt;
 &amp;lt;iframe height=498 width=510 src=’https://player.youku.com/embed/XMTg3Nzg4MzY4NA==’ frameborder=0 ‘allowfullscreen’&amp;gt;&amp;lt;/iframe&amp;gt;&lt;/p&gt;
