@@ -6,16 +6,17 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 30 Nov 2018 19:02:43 +0800</pubDate>
-    <lastBuildDate>Fri, 30 Nov 2018 19:02:43 +0800</lastBuildDate>
+    <pubDate>Fri, 30 Nov 2018 19:14:56 +0800</pubDate>
+    <lastBuildDate>Fri, 30 Nov 2018 19:14:56 +0800</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
         <title>Video</title>
         <description>&lt;h3 id=&quot;try-voyager&quot;&gt;Try voyager&lt;/h3&gt;
 &lt;h3 id=&quot;try-yk&quot;&gt;try yk&lt;/h3&gt;
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;http://player.youku.com/embed/XMzkzNDU1OTk2NA==&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;p&gt;&amp;lt;iframe height=498 width=510 src=’http://player.youku.com/embed/XMzkzNDU1OTk2NA==’ frameborder=0 ‘allowfullscreen’&amp;gt;&amp;lt;/iframe&amp;gt;&lt;/p&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;http://player.youku.com/embed/XMzkzNDU1OTk2NA==&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;&amp;lt;iframe height=498 width=510 src=’http://player.youku.com/embed/XMzkzNDU1OTk2NA==’ frameborder=0 ‘allowfullscreen’&amp;gt;&amp;lt;/iframe&amp;gt;
+&amp;lt;iframe height=498 width=510 src=’https://player.youku.com/embed/XMTg3Nzg4MzY4NA==’ frameborder=0 ‘allowfullscreen’&amp;gt;&amp;lt;/iframe&amp;gt;&lt;/p&gt;
 &lt;h3 id=&quot;try-utube&quot;&gt;try utube&lt;/h3&gt;
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/6SlgtELqOWc&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
