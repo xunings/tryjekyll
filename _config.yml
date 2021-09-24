@@ -37,6 +37,10 @@ compress_html:
 
 
 sass:
+<<<<<<< HEAD
+=======
+  sass_dir: /assets/_sass
+>>>>>>> 0418a3e (Update config.)
   style: compressed
 
 
