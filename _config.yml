@@ -37,8 +37,8 @@ compress_html:
 
 
 sass:
-  sass_dir: assets/_sass
+  sass_dir: tryjekyll/assets/_sass
   style: compressed
 
 
-images: '/assets/images'
+images: 'tryjekyll/assets/images'
