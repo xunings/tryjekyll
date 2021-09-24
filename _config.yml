@@ -40,4 +40,4 @@ sass:
   style: compressed
 
 
-images: '/assets/images'
+images: 'tryjekyll/assets/images'
