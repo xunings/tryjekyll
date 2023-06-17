@@ -1,19 +1,12 @@
 ---
-bg: "owl.jpg"
+bg: "wuyanzu2.jpg"
 layout: page
 title: "About"
-crawlertitle: "Why and how this blog was created"
+crawlertitle: "About Xuning Shao"
 permalink: /about/
-summary: "About this blog"
+summary: "About Xuning Shao"
 active: about
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at:
-{{site.twitter_username}} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at
-{{site.github_username}} /
-[jekyll](https://github.com/jekyll/jekyll)
+## About
+Skilled in AIGC, Deep Learning, Computer Vision, Algorithm Design, Python, C++, Matlab and Wireless Technologies. Strong information technology professional with a Doctor of Philosophy (PhD) focused in Electrical, Information and Communications Engineering from Zhejiang University.
