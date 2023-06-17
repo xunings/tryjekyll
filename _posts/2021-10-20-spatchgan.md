@@ -10,7 +10,7 @@ tags: 'Paper'
 author: Xuning
 ---
 
-- SPatchGAN: A Statistical Feature Based Discriminator for Unsupervised Image-to-Image Translation (ICCV 2021)
+##  SPatchGAN: A Statistical Feature Based Discriminator for Unsupervised Image-to-Image Translation (ICCV 2021)
 
 - ![spatchgan]({{ site.images }}/spatchgan_demo.jpg){: width="768" }
 
