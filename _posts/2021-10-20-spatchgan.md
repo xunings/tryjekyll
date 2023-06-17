@@ -6,7 +6,7 @@ crawlertitle: "SPatchGAN: A Statistical Feature Based Discriminator for Unsuperv
 summary: "SPatchGAN (ICCV 2021)"
 date:   2021-10-20 21:24:47 +0800
 categories: posts
-tags: 'Paper'
+tags: 'AI Paper'
 author: Xuning
 ---
 

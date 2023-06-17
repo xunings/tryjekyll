@@ -11,7 +11,7 @@ active: about
 ## About
 - Living in Hangzhou, China.
 - Skilled in AIGC, Deep Learning, Computer Vision, Algorithm Design, Python, C++, Matlab and Wireless Technologies.
-- Strong information technology professional with a Doctor of Philosophy (PhD) focused in Electrical, Information and Communications Engineering from Zhejiang University.
+- [semanticscholar](https://www.semanticscholar.org/author/Xuning-Shao/2838064)
 
 ## Work Experience
 
