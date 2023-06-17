@@ -10,7 +10,7 @@ tags: 'Paper'
 author: Xuning
 ---
 
-- Xuning Shao, Weidong Zhang
+- `Xuning Shao, Weidong Zhang`
 - ![spatchgan]({{ site.images }}/spatchgan_demo.jpg){: width="768" }
 
 - [Code](https://github.com/NetEase-GameAI/SPatchGAN)
