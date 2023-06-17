@@ -1,5 +1,5 @@
 ---
-bg: "wuyanzu2.jpg"
+bg: "owl.jpg"
 layout: page
 title: "About"
 crawlertitle: "About Xuning Shao"
@@ -11,7 +11,7 @@ active: about
 ## About
 - Living in Hangzhou, China.
 - Skilled in AIGC, Deep Learning, Computer Vision, Algorithm Design, Python, C++, Matlab and Wireless Technologies.
-- [semanticscholar](https://www.semanticscholar.org/author/Xuning-Shao/2838064)
+- Publications: [semanticscholar](https://www.semanticscholar.org/author/Xuning-Shao/2838064)
 
 ## Work Experience
 
