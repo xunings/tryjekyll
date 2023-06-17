@@ -26,7 +26,7 @@ active: about
 
 | Time        | Where           | 
 | ------------- |:-------------|
-| Sep. 2006 – Jun. 2011 | Zhejiang University, Hangzhou, Institute of Information and Communication Engineering. Ph.D. granted.|
+| Sep. 2006 – Jun. 2011 | Zhejiang University, Hangzhou, Institute of Information and Communication Engineering. <br> Ph.D. granted.|
 | Jun. 2010 – Aug. 2010 | The Chinese University of Hong Kong, Summer Research Placement Programme for Mainland Postgraduate Students. | 
-| Sep. 2002 – Jun. 2006 | Zhejiang University, Hangzhou, Chu Kochen Honors College and College of Information Science and Engineering. B.Eng. granted.| 
+| Sep. 2002 – Jun. 2006 | Zhejiang University, Hangzhou, Chu Kochen Honors College <br> and College of Information Science and Engineering. <br> B.Eng. granted.| 
 | Sep. 2000 – Jun. 2002 | Xuejun High School, Hangzhou. | 
