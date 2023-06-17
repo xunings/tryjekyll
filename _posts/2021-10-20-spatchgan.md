@@ -5,7 +5,7 @@ title:  "SPatchGAN: A Statistical Feature Based Discriminator for Unsupervised I
 crawlertitle: "SPatchGAN: A Statistical Feature Based Discriminator for Unsupervised Image-to-Image Translation (ICCV 2021)"
 summary: "SPatchGAN (ICCV 2021)"
 date:   2021-10-20 21:24:47 +0800
-categories: posts
+categories: starred
 tags: 'AI-Paper'
 author: Xuning
 ---
