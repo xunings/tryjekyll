@@ -1,5 +1,5 @@
 ---
-bg: "african-penguins.jpg"
+bg: "beer.jpg"
 layout: post
 title:  "Non-linear Precoding Patents"
 crawlertitle: "Non-linear Precoding Patents"

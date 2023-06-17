@@ -1,5 +1,5 @@
 ---
-bg: "african-penguins.jpg"
+bg: "beer.jpg"
 layout: post
 title:  "SPatchGAN: A Statistical Feature Based Discriminator for Unsupervised Image-to-Image Translation (ICCV 2021)"
 crawlertitle: "SPatchGAN: A Statistical Feature Based Discriminator for Unsupervised Image-to-Image Translation (ICCV 2021)"
