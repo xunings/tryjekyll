@@ -38,4 +38,4 @@ sass:
   style: compressed
 
 
-images: 'tryjekyll/assets/images'
+images: 'assets/images'
