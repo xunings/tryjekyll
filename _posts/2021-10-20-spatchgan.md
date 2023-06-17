@@ -10,13 +10,11 @@ tags: 'Paper'
 author: Xuning
 ---
 
-- SPatchGAN (ICCV 2021)
+- Xuning Shao, Weidong Zhang
 - ![spatchgan]({{ site.images }}/spatchgan_demo.jpg){: width="768" }
 
-- Authors: Xuning Shao, Weidong Zhang
+- [Code](https://github.com/NetEase-GameAI/SPatchGAN)
 
-- [github](https://github.com/NetEase-GameAI/SPatchGAN)
-
-- [arxiv](https://arxiv.org/abs/2103.16219)
+- [Paper](https://arxiv.org/abs/2103.16219)
 
 
