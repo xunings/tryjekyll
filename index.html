@@ -1,14 +1,24 @@
 ---
-bg: "rails.jpg"
+bg: "tile.jpg"
 layout: default
-crawlertitle: "Jekyll blog"
-title: "Voyager"
-summary: "main page"
+crawlertitle: "Xuning Shao's blog"
+title: "Projects"
+summary: "Xuning Shao's blog"
 ---
 
-{% for post in site.posts limit: 5 %}
+{% for post in site.categories.starred % limit: 5 %}
   <article class="index-page">
     <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
     {{ post.excerpt }}
   </article>
 {% endfor %}
+
+{% for post in site.categories.posts limit: 5 %}
+  <article class="index-page">
+    <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+    {{ post.excerpt }}
+  </article>
+{% endfor %}
+
+<br/>
+<em><a href="{{ site.url }}/posts">More...</a></em>

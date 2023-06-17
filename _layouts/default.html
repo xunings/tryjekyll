@@ -5,14 +5,16 @@ layout: compress
 <html lang="{{ site.lang }}">
 
   {% include head.html %}
-
+  
+  <link rel="shortcut icon" type="image/png" href="{{ site.baseurl }}/assets/images/favicon-violin.png" >
+  
   <body>
     <div id="shadow"></div>
 
       {% include header.html %}
       {% include aside.html %}
 
-    <main class="content-wrapper blog-content">
+    <main class="content-wrapper">
       {{ content }}
     </main>
 

@@ -1,19 +1,33 @@
 ---
-bg: "owl.jpg"
+bg: "tile.jpg"
 layout: page
 title: "About"
-crawlertitle: "Why and how this blog was created"
+crawlertitle: "About Xuning Shao"
 permalink: /about/
-summary: "About this blog"
+summary: "About Xuning Shao"
 active: about
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+## About
+- Living in Hangzhou, China.
+- Skilled in AIGC, Deep Learning, Computer Vision, Algorithm Design, Python, C++, Matlab and Wireless Technologies.
+- Publications: [semanticscholar](https://www.semanticscholar.org/author/Xuning-Shao/2838064)
+- [linkedin](https://www.linkedin.com/in/xuning-shao-988b801b/)
 
-You can find the source code for the Jekyll new theme at:
-{{site.twitter_username}} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+## Work Experience
 
-You can find the source code for Jekyll at
-{{site.github_username}} /
-[jekyll](https://github.com/jekyll/jekyll)
+| Time        | Where           |
+| ------------- |:-------------|
+| Sep. 2018 - Now | NetEase Games IEG AI Lab, Hangzhou |
+| Jul. 2017 – Aug. 2018  | Nokia Bell Labs, <br> Standardization Research Lab, Naperville |
+| Sep. 2006 – Jun. 2011 | Nokia Networks, <br> LTE System Design and Architecture Team, Hangzhou |
+
+
+## Education Experience
+
+| Time        | Where           | 
+| ------------- |:-------------|
+| Sep. 2006 – Jun. 2011 | Zhejiang University, Hangzhou, Institute of Information and Communication Engineering. <br> Ph.D. granted.|
+| Jun. 2010 – Aug. 2010 | The Chinese University of Hong Kong, Summer Research Placement Programme for Mainland Postgraduate Students. | 
+| Sep. 2002 – Jun. 2006 | Zhejiang University, Hangzhou, Chu Kochen Honors College <br> and College of Information Science and Engineering. <br> B.Eng. granted.| 
+| Sep. 2000 – Jun. 2002 | Xuejun High School, Hangzhou. | 
