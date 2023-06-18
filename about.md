@@ -8,10 +8,10 @@ summary: "About Xuning Shao"
 active: about
 ---
 
-## About
+## About Xuning Shao (邵叙宁)
 - Living in Hangzhou, China.
 - Skilled in AIGC, Deep Learning, Computer Vision, Algorithm Design, Python, C++, Matlab and Wireless Technologies.
-- Publications: [semanticscholar](https://www.semanticscholar.org/author/Xuning-Shao/2838064)
+- [semanticscholar](https://www.semanticscholar.org/author/Xuning-Shao/2838064)
 - [linkedin](https://www.linkedin.com/in/xuning-shao-988b801b/)
 
 ## Work Experience
