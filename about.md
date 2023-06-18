@@ -20,7 +20,7 @@ active: about
 | ------------- |:-------------|
 | Sep. 2018 - Now | NetEase Games IEG AI Lab, Hangzhou |
 | Jul. 2017 – Aug. 2018  | Nokia Bell Labs, <br> Standardization Research Lab, Naperville |
-| Sep. 2006 – Jun. 2011 | Nokia Networks, <br> LTE System Design and Architecture Team, Hangzhou |
+| Aug. 2011 – Jun. 2017 | Nokia Networks, <br> LTE System Design and Architecture Team, Hangzhou |
 
 
 ## Education Experience
